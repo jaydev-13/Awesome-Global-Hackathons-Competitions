@@ -6,7 +6,9 @@
 > 🔄 Updated regularly — contributions welcome!
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/awesome-hackathons-competitions-world?style=social)
+![GitHub forks](https://img.shields.io/github/forks/jaydev-13/awesome-hackathons-competitions-world?style=social)
+![GitHub issues](https://img.shields.io/github/issues/jaydev-13/awesome-hackathons-competitions-world)
+![GitHub last commit](https://img.shields.io/github/last-commit/jaydev-13/awesome-hackathons-competitions-world)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
