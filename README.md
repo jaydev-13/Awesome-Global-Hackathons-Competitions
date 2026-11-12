@@ -74,6 +74,8 @@
 | **OpenAI Developer Challenge** | $500,000+ (varies) | Periodic | Developers | [openai.com](https://openai.com) |
 | **Zerve.AI Hackathon (HackerEarth)** | Cash prizes + offers | Annual | Open to all | [hackerearth.com](https://www.hackerearth.com) |
 | **Numerai Tournament** | NMR tokens ($100–$50,000/month) | Continuous | Data scientists | [numer.ai](https://numer.ai) |
+| **才聚 AI·智启未来 实战挑战赛** | Cash rewards & Huawei Cloud credits | 2026–2027 | Individuals & startup teams | [github.com/13913314609-gif/opc-ai-challenge-2026](https://github.com/13913314609-gif/opc-ai-challenge-2026) |
+
 
 ---
 
